@@ -1,11 +1,10 @@
 # Neural Network Regression for fMRI decoding
 
----
 
 Code repository for [Neural Network Regression for fMRI decoding]()
 
 ## Requirements
----
+
 
 
 *   Python 3.x
@@ -18,7 +17,7 @@ Code repository for [Neural Network Regression for fMRI decoding]()
 *   Pandas
 
 ## Data
----
+
 The required data can be downloaded from the following links:
 
 * [ImageNet validation set]()
@@ -26,7 +25,7 @@ The required data can be downloaded from the following links:
 * [fMRI data]()
 
 ## Setting up files
----
+
 The data files should be places in structure given below:
 
     Project Folder
@@ -45,7 +44,7 @@ The data files should be places in structure given below:
 
 
 ## Usage
----
+
 * Install all the mentioned requirements.
 
 * Download necessary data from the given links and place them in given folder structure.
